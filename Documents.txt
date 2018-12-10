@@ -1,0 +1,31 @@
+2018-09-30 | 762986604 | Constructora Asfalcura S A | NF | 967868809 | Sacyr Chile S A | BPC_Partner | 5592 | 57925470064 | Reclamado por el receptor
+2018-09-30 | 763894878 | Eloy Corredores De Bolsa De Productos S.A | NF | 765159318 | Eloy Servicios Financieros S.A. | N/A | 5463 | 564629296 | Recibo otorgado por el receptor
+2018-09-30 | 763894878 | Eloy Corredores De Bolsa De Productos S.A | NF | 765159318 | Eloy Servicios Financieros S.A. | N/A | 5464 | 56707376 | Recibo otorgado por el receptor
+2018-09-30 | 763894878 | Eloy Corredores De Bolsa De Productos S.A | NF | 765159318 | Eloy Servicios Financieros S.A. | N/A | 5465 | 10739380080 | Recibo otorgado por el receptor
+2018-09-30 | 763894878 | Eloy Corredores De Bolsa De Productos S.A | NF | 765159318 | Eloy Servicios Financieros S.A. | N/A | 5466 | 355198272 | Recibo otorgado por el receptor
+2018-09-30 | 763894878 | Eloy Corredores De Bolsa De Productos S.A | NF | 765159318 | Eloy Servicios Financieros S.A. | N/A | 5467 | 671180400 | Recibo otorgado por el receptor
+2018-09-30 | 764128419 | Lineros Telecomunicaciones Limitada | NF | 827894001 | Cia Exploradora Y Explotadora Minera Chileno Rumana S A | N/A | 2733 | 2670360000 | N/A
+2018-09-30 | 764660307 | Ingenieria De Redes Limitada | NF | 798911600 | Salmones Multiexport S.A. | BPC_Partner | 280 | 10478842704 | N/A
+2018-09-30 | 766136478 | Abastecimiento Y Logistica Limitada | NF | 798911600 | Salmones Multiexport S.A. | BPC_Partner | 769 | 34739441792 | N/A
+2018-09-30 | 766136478 | Abastecimiento Y Logistica Limitada | NF | 798911600 | Salmones Multiexport S.A. | BPC_Partner | 770 | 31406907312 | N/A
+2018-09-30 | 766136478 | Abastecimiento Y Logistica Limitada | NF | 798911600 | Salmones Multiexport S.A. | BPC_Partner | 774 | 1044043440 | N/A
+2018-09-30 | 772352107 | Vargas Y Vargas Limitada | NF | 798911600 | Salmones Multiexport S.A. | BPC_Partner | 514 | 96960843408 | N/A
+2018-09-30 | 777587404 | Inversiones Aereas Patagonia Limitada | NF | 798911600 | Salmones Multiexport S.A. | BPC_Partner | 3989 | 49345736528 | N/A
+2018-10-01 | 113787961 | Miguel Guillermo Gallardo Rivera | NF | 796643307 | Soc Contractual Minera Carola | N/A | 299 | 9702308000 | N/A
+2018-10-01 | 762755548 | Comercial Tradimex Spa | NF | 762986604 | Constructora Asfalcura S A | BPC_Partner | 1264 | 1828662528 | N/A
+2018-10-01 | 763452220 | Ricardo Ernesto Le�N Orellana | NF | 827894001 | Cia Exploradora Y Explotadora Minera Chileno Rumana S A | N/A | 102 | 1388587200 | N/A
+2018-10-01 | 763452220 | Ricardo Ernesto Le�N Orellana | NF | 827894001 | Cia Exploradora Y Explotadora Minera Chileno Rumana S A | N/A | 103 | 8011080000 | N/A
+2018-10-01 | 766857914 | Newcall Spa | NF | 789216908 | Wom S.A. | PF_Partner | 76 | 530521495328 | N/A
+2018-10-01 | 766857914 | Newcall Spa | NF | 789216908 | Wom S.A. | PF_Partner | 77 | 45648914080 | N/A
+2018-10-01 | 767488246 | Easyfresh Chile Spa | NF | 798911600 | Salmones Multiexport S.A. | BPC_Partner | 876 | 1252768352 | N/A
+2018-10-01 | 768021848 | Blogencer Spa | NF | 789216908 | Wom S.A. | PF_Partner | 62 | 13529824000 | N/A
+2018-10-01 | 768083444 | Distribuidora Sos Filtros Spa | NF | 995586800 | Constructora Socovesa Santiago S.A. | BPC_Partner | 1422 | 585307008 | N/A
+2018-10-02 | 760517100 | Soc Comercial Aprocaucho Limitada | NF | 827894001 | Cia Exploradora Y Explotadora Minera Chileno Rumana S A | N/A | 437 | 7455645120 | N/A
+2018-10-02 | 761727826 | Rrs Servicios Spa | NF | 827894001 | Cia Exploradora Y Explotadora Minera Chileno Rumana S A | N/A | 167 | 219391622384 | N/A
+2018-10-02 | 762020394 | Ingenieria Y Maestranza Soldasur Limitada | NF | 798911600 | Salmones Multiexport S.A. | BPC_Partner | 1667 | 45396120000 | N/A
+2018-10-02 | 76220696K | Miguel Angel Veliz Araya Comunicaciones Empresa Individual De Responsabilidad Limitada | NF | 796643307 | Soc Contractual Minera Carola | N/A | 617 | 712096000 | N/A
+2018-10-02 | 762986604 | Constructora Asfalcura S A | NF | 995586800 | Constructora Socovesa Santiago S.A. | BPC_Partner | 5595 | 31945748560 | N/A
+2018-10-02 | 763452220 | Ricardo Ernesto Le�N Orellana | NF | 827894001 | Cia Exploradora Y Explotadora Minera Chileno Rumana S A | N/A | 105 | 356048000 | N/A
+2018-10-02 | 763746631 | Servicios Integrales En Telecomunicaciones Limitada | NF | 789216908 | Wom S.A. | PF_Partner | 640 | 18061674752 | N/A
+2018-10-02 | 764693140 | Servicio De Mantencion Industrial Ingrid Evelin Solis Gonzalez E.I.R.L. | NF | 798911600 | Salmones Multiexport S.A. | BPC_Partner | 134 | 19391953856 | N/A
+2018-10-05 | 788479700 | Inmobiliaria Y Constructora Sutter Marisio Y Compania Limitada | NF | 789216908 | Wom S.A. | PF_Partner | 60 | 10890137984 | Recibo otorgado por el receptor

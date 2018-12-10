@@ -1,0 +1,19 @@
+Nro;Tipo Doc;Tipo Venta;Rut cliente;Razon Social;Folio;Fecha Docto;Fecha Recepcion;Fecha Acuse Recibo;Fecha Reclamo;Monto Exento;Monto Neto;Monto IVA;Monto total;IVA Retenido Total;IVA Retenido Parcial;IVA no retenido;IVA propio;IVA Terceros;RUT Emisor Liquid. Factura;Neto Comision Liquid. Factura;Exento Comision Liquid. Factura;IVA Comision Liquid. Factura;IVA fuera de plazo;Tipo Docto. Referencia;Folio Docto. Referencia;Num. Ident. Receptor Extranjero;Nacionalidad Receptor Extranjero;Credito empresa constructora;Impto. Zona Franca (Ley 18211);Garantia Dep. Envases;Indicador Venta sin Costo;Indicador Servicio Periodico;Monto No facturable;Total Monto Periodo;Venta Pasajes Transporte Nacional;Venta Pasajes Transporte Internacional;Numero Interno;Codigo Sucursal;NCE o NDE sobre Fact. de Compra;Codigo Otro Imp.;Valor Otro Imp.;Tasa Otro Imp.
+1;33;Del Giro;60601000-1;SUBSECRETARIA DEL MINISTERIO DE RELACION;674;01/10/2018;01/10/2018 12:05:28;;;0;2605417;495029;3100446;0;0;0;0;0;-;0;0;0;0;;;;;0;;0;2;0;0;0;;;;74610252;;;;;
+2;33;Del Giro;80965500-8;PROYECTOS Y CONSTRUCCIONES TASCO LIMITADA;675;02/10/2018;02/10/2018 10:29:52;;;0;109430;20792;130222;0;0;0;0;0;-;0;0;0;0;0;;;;0;;0;2;0;0;0;;;;74610252;;;;;
+3;33;Del Giro;80965500-8;PROYECTOS Y CONSTRUCCIONES TASCO LIMITADA;676;02/10/2018;02/10/2018 10:33:14;;;0;109150;20739;129889;0;0;0;0;0;-;0;0;0;0;0;;;;0;;0;2;0;0;0;;;;74610252;;;;;
+4;33;Del Giro;80965500-8;PROYECTOS Y CONSTRUCCIONES TASCO LIMITADA;677;02/10/2018;02/10/2018 10:35:05;;;0;109430;20792;130222;0;0;0;0;0;-;0;0;0;0;0;;;;0;;0;2;0;0;0;;;;74610252;;;;;
+5;33;Del Giro;76135122-2;TERMICA SOCIEDAD ANONIMA;678;03/10/2018;03/10/2018 16:56:27;09/10/2018 16:56:38;;0;299487;56903;356390;0;0;0;0;0;-;0;0;0;0;0;;;;0;;0;2;0;0;0;;;;74610252;;;;;
+6;33;Del Giro;76135122-2;TERMICA SOCIEDAD ANONIMA;679;05/10/2018;05/10/2018 16:03:23;11/10/2018 17:24:58;;0;2075429;394332;2469761;0;0;0;0;0;-;0;0;0;0;0;;;;0;;0;2;0;0;0;;;;74610252;;;;;
+7;33;Del Giro;76401726-9;INVERSIONES HBD LIMITADA;680;10/10/2018;10/10/2018 10:52:04;;;0;382324;72642;454966;0;0;0;0;0;-;0;0;0;0;;;;;0;;0;2;0;0;0;;;;74610252;;;;;
+8;33;Del Giro;76401726-9;INVERSIONES HBD LIMITADA;681;24/10/2018;24/10/2018 13:32:38;;;0;747476;142020;889496;0;0;0;0;0;-;0;0;0;0;;;;;0;;0;2;0;0;0;;;;74610252;;;;;
+9;46;Del Giro;96874030-K;Empresas La Polar S.A.;3;01/10/2018;01/10/2018 10:43:52;;;0;300000;57000;300000;57000;;0;0;0;-;0;0;0;0;;;;;0;;0;2;0;0;0;;;;0;;15;57000;19;
+10;46;Del Giro;96874030-K;Empresas La Polar S.A.;4;01/10/2018;01/10/2018 12:49:55;;;0;1652628;313999;1652628;313999;;0;0;0;-;0;0;0;0;;;;;0;;0;2;0;0;0;;;;0;;15;313999;19;
+11;46;Del Giro;96874030-K;Empresas La Polar S.A.;5;01/10/2018;01/10/2018 13:13:47;;;0;205000;38950;205000;38950;;0;0;0;-;0;0;0;0;;;;;0;;0;2;0;0;0;;;;0;;15;38950;19;
+12;46;Del Giro;96874030-K;Empresas La Polar S.A.;6;01/10/2018;01/10/2018 13:37:20;;;0;76000;14440;76000;14440;;0;0;0;-;0;0;0;0;;;;;0;;0;2;0;0;0;;;;0;;15;14440;19;
+13;46;Del Giro;96874030-K;Empresas La Polar S.A.;7;01/10/2018;01/10/2018 15:52:50;;;0;357000;67830;357000;67830;;0;0;0;-;0;0;0;0;;;;;0;;0;2;0;0;0;;;;0;;15;67830;19;
+14;46;Del Giro;96874030-K;Empresas La Polar S.A.;8;01/10/2018;01/10/2018 16:47:14;;;0;3102225;589423;3102225;589423;;0;0;0;-;0;0;0;0;;;;;0;;0;2;0;0;0;;;;0;;15;589423;19;
+15;46;Del Giro;96874030-K;Empresas La Polar S.A.;17;16/10/2018;16/10/2018 13:01:57;;;0;1620871;307965;1620871;307965;;0;0;0;-;0;0;0;0;;;;;0;;0;2;0;0;0;;;;0;;15;307965;19;
+16;46;Del Giro;96874030-K;Empresas La Polar S.A.;18;16/10/2018;16/10/2018 13:09:43;;;0;2335500;443745;2335500;443745;;0;0;0;-;0;0;0;0;;;;;0;;0;2;0;0;0;;;;0;;15;443745;19;
+17;46;Del Giro;96874030-K;Empresas La Polar S.A.;19;16/10/2018;16/10/2018 14:12:13;;;0;385000;73150;385000;73150;;0;0;0;-;0;0;0;0;;;;;0;;0;2;0;0;0;;;;0;;15;73150;19;
+18;46;Del Giro;96874030-K;Empresas La Polar S.A.;20;16/10/2018;16/10/2018 14:22:59;;;0;1405500;267045;1405500;267045;;0;0;0;-;0;0;0;0;;;;;0;;0;2;0;0;0;;;;0;;15;267045;19;

@@ -1,0 +1,35 @@
+PGPASSWORD='gyrEYbGSdex3YaJS' psql -t -U angel_gongora -h production-green.omnibnk.io --set ON_ERROR_STOP=on production_service_documents_db <<SQL
+select id from invoices where issuer_tax_number = '' and debtor_tax_number = '' and doc_number = '';
+SQL
+
+
+{"data":{
+	"invoice":{
+		"id":"'$invoice_id'",
+		"dte":"'$dtebase64'",
+		"issuer_tax_number":"'$emisor'",
+		"invoice_number":"'$folio='",
+		"dte_type":"'$dtetype'"},
+	"assignor_organization":{
+		"tax_number":"'$emisor'",
+		"name":"'$name'",
+		"full_address":"'$full_address'",
+		"email":"'$email'"},
+	"assignor_user":{
+		"tax_number":"'$rut_user'",
+		"name":"'$name_user='",
+		"email":"'$email'"}, 
+	"authentication_data":{
+		"digital_certificate":"", 
+		"certificate_secret":""},
+	"assignee":{
+		"tax_number":"'$assigne'",
+		"name":"'$name_assignee'",
+		"full_address":"",
+		"email":"'$email'"},
+	"basic_data":{
+		"amount":"'$amount'",
+		"new_due_date":"",
+		"debtor_email":"'$email'"}
+	}
+}

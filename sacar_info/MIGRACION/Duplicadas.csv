@@ -1,0 +1,156 @@
+Esquema	Nombre	Apellido	Telefono	Rut_usuario	Email	Rut_Empresa	Rol	Duplciadas
+MotorFinanciero_MotorFinanciero	MANUEL	MILLAN	982484059	31530660	emedosspa@gmail.com	76525079K	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	RodolfoAlejandro	DepixDiaz	413228386	54949359	david.quinileo@gmail.com	768878897	default	Duplicate
+PortalFinance_Partner	Matias	Jarpa	957885702	55274479	mjarpa@eloy.cl	765159318	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	Andres	Abumohor	995999388	56604782	supplier@portalfinance.co	764510062	default	Duplicate
+Eloy_Partner	FERNANDOALEJANDRO	ARIASTAPIA	956263361	57137460	fernando.arias@abastec.cl	777837508	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	rosalia	chancerel	964373922	62899085	ventas@turbocentro.cl	762425718	default	Duplicate
+Btg_Btg	TestUser1	Test	43234	64796364	coldman29@hotmail.com	114854298	financial	Duplicate
+Btg_App	Myriam	Araya	988271799	70427869	m.araya@dueik.cl	761066412	supplier	Duplicate
+PortalFinance_Partner	Juan	AlarcónCatalan	225696127	79958883	juan.alarcon@mineracarola.cl	827894001	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	claudio	olivares	226414109	81197407	colivares@ingecou.cl	762398117	default	Duplicate
+Btg_Wom	raul	melladopalma	974778823	81227756	rmellado@wspexpress.cl	968287400	supplier	Duplicate
+Claro_Claro	Andrés	Abuhomor		90985884	financial@portalfinance.co	767863292	financial	Duplicate
+Btg_Btg	Andres	Abumohor		94965012	aabumohor@portalfinance.co	764505832	financial	Duplicate
+MotorFinanciero_MotorFinanciero	Andres	Abumohor	995999388	94965012	andres@motorfinanciero.cl	767863292	credit_executive	Duplicate
+MotorFinanciero_MotorFinanciero	LEONEL	SALIT	228958025	97651930	rojasysalit@vtr.net	779967905	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	Diego	Alguno	3006671741	99028254	puertorojas@gmail.com	765368820	default	Duplicate
+PortalFinance_Partner	Jorge	LAZO	23506612	101677575	jlazo@acma.cl	921900007	supplier	Duplicate
+Btg_Wom	Pablo	Inostroza	954082252	104642454	pinostroza@grupovl.cl	76380156K	supplier	Duplicate
+Eloy_Partner	Pedro	Inostroza	226203542	105219709	pinostroza@bash.cl	968283006	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	Esteban	LivacicSagredo	342293209	106579369	estebanlivacic@gmail.com	768388520	default	Duplicate
+MotorFinanciero_MotorFinanciero	IngriddelPilar	Romero	232086597	106645574	promero@ecfal.cl	767457030	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	nicole	revesz	228404950	106837562	nrevesz@chileparcels.cl	762736942	default	Duplicate
+Btg_Carola	SUSANA	DURAN	222355248	107028684	sduran@geoequipos.cl	889013001	supplier	Duplicate
+Eloy_Socovesa	Valeria	Carvajal	232027382	107719423	vcarvajal@bws.cl	767239904	supplier	Duplicate
+Eloy_Socovesa	consuelo	edwards	56498749	108371552	consuelo@believe.tv	760200476	supplier	Duplicate
+Btg_Wom	jaime	diaz	988682454	108464593	adminmistracion@chileparcels.cl	762736942	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	Diego	Caicedo	12312312	108784113	dcaicedo@portalfinance.co	764505832	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	fabiola	muñozcisternas	956570693	108822295	fabiolamunozcisternas@gmail.com	766609651	supplier	Duplicate
+Btg_Wom	German	Angulo	226203550	109751235	bash@bash.cl	968283006	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	Jessica	GonzalezOrtiz	968404016	114863114	transportes.yapedan@gmail.com	764829468	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	omar	ostornol	991290000	116319454	oostornol@gmail.com	762398117	default	Duplicate
+Test_Test	Diego	Caicedo		118620208	financial@portalfinance.co	482051170	financial	Duplicate
+MotorFinanciero_MotorFinanciero	pedroluis	naranjoriquelme	956297340	120468898	pedronaranjo@bicho.cl	763037495	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	Mauricio	Garrido	962483267	121180979	mauricio.garrido.v@gmail.com	118692225	supplier	Duplicate
+Btg_Wom	Elizabeth	DIAZ	975000821	122367231	elizabeth.diaz@wom.cl	96965220K	supplier	Duplicate
+PortalFinance_Partner	Elizabeth	Diaz	975000821	122367231	elizabeth.diaz@wom.cl	96965220K	supplier	Duplicate
+Test_Test	Test2	Tester	54	123834941	jperezud@gmail.com	482051170	financial	Duplicate
+MotorFinanciero_MotorFinanciero	MauricioWenceslao	CordovaJavia	56968352792	124644585	mauricio.cordova@sercall.cl	764855795	supplier	Duplicate
+Btg_Carola	Jimena	Salazar	228420700	125056202	jsalazar@bombasdepozo.cl	78176700K	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	Omar	Arriati	964373922	126391390	oarriati@turbocentro.cl	762425718	default	Duplicate
+Btg_Wom	marcelo	ardilescastillo	23648203	126510047	cobranzas@cooperativa.cl	947950002	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	Ignacio	Gonzalez	987446692	126662351	cuentaman@gmail.com	764829468	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	RICARDO	HURTUBIAPOLANCO	948625621	129489030	rhurtubia@cpagroup.cl	767157258	default	Duplicate
+MotorFinanciero_MotorFinanciero	Juan	Vasquez	982573193	130076815	javasquezk@gmail.com	118692225	supplier	Duplicate
+Eloy_Socovesa	lilian	torres	8401000	130858600	creditoycobranza@iia.cl	798823604	supplier	Duplicate
+Btg_Wom	HERNAN	MALDONADO	998022627	131665237	hernan@varsoviadigital.cl	767778163	supplier	Duplicate
+Btg_Carola	ROBERTO	ROJAS	992405107	131737858	robertorojassoto@gmail.com	761727826	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	ROBERTO	ROJAS	992405107	131737858	robertorojassoto@gmail.com	761727826	default	Duplicate
+MotorFinanciero_MotorFinanciero	Felipe	Bianchi		134412489	felipe@motorfinanciero.cl	764510062	credit_executive	Duplicate
+Eloy_Acma	Cristóbal	Lira	979694440	134417862	clira@acma.cl	921900007	supplier	Duplicate
+PortalFinance_Partner	Cristóbal	Lira	979694440	134417862	clira@acma.cl	921900007	supplier	Duplicate
+Btg_Carola	Rodrigo	Hernadez	569786496	134461187	rhernandez@cosesa.cl	761165267	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	David	Quiñileo	952259954	134879130	rdepix@gmail.com	768878897	default	Duplicate
+MotorFinanciero_MotorFinanciero	Francisco	Aguilar	964184870	135244333	faguilar@ecfal.cl	767457030	default	Duplicate
+Eloy_Socovesa	Sonia	Pérez	26379811	136568167	sperez@kovacs.cl	805229004	supplier	Duplicate
+Eloy_Partner	alvaro	rodriguez	963089250	136790870	arodriguez@aplisol.cl	76367861K	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	cesar	ascencio	958724494	136976273	farmasantiagoltda@gmail.com	764723473	default	Duplicate
+Eloy_Partner	Lisbeth	Cortes	45277277	137286084	lcortes@inverluz.cl	963550006	supplier	Duplicate
+Btg_Wom	José	Alvarez	971081776	138174247	jose.wermaster@gmail.com	765605318	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	BetzabeAlejandra	HinojosaGil	954037300	138379175	contacto@prodecor.cl	764163354	default	Duplicate
+MotorFinanciero_MotorFinanciero	NATALIN	SOTO	228958025	139006704	natalins@gmail.com	779967905	supplier	Duplicate
+Eloy_Partner	Cristián	Herrera	412244077	139429370	cherrera@electrocom.cl	963550006	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	Miguel	Vasquez	56983414072	140900265	mvasquez@firware.cl	761956728	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	Jaime	Pino	952541845	141884743	jpino@firware.cl	761956728	supplier	Duplicate
+Eloy_Partner	LUISA	SOTOMORALES	226048488	141926926	luisa.soto@ifm.com	764162587	supplier	Duplicate
+Eloy_Socovesa	JANET	ZUÑIGA	225915218	142515407	jzuniga@multimaq.cl	799381605	supplier	Duplicate
+Btg_Carola	Rosemarie	OrellanaGarrido	223312962	142763508	rorellana@cosesa.cl	761165267	supplier	Duplicate
+Eloy_Partner	Roberto	Lopez	32239284	143765199	roberto.lopez@ifm.com	764162587	supplier	Duplicate
+PortalFinance_Partner	Eithel	Alvarez	225696141	144210247	eithel.alvarez@mineracarola.cl	827894001	supplier	Duplicate
+Eloy_Socovesa	Daniel	Hinojosa	954037300	146242715	daniel@prodecor.cl	764163354	supplier	Duplicate
+Eloy_Socovesa	JOCELYN	ABARZUA	222355248	152252935	jabarzua@geoequipos.cl	889013001	supplier	Duplicate
+Btg_Carola	JUANIGNACIO	OYARZUN	228625724	152591047	juanignacio@hannachile.com	789721904	supplier	Duplicate
+Btg_Wom	Eduardo	PerezMartinez	569422782	153368635	eperez@grupovl.cl	76380156K	supplier	Duplicate
+Btg_App	Mario	Ortiz	25053360	153805350	mario@becual.com	761066412	supplier	Duplicate
+Btg_Carola	Mariana	MéndezSaldaño	222382152	154806016	mmendez@campomanes.cl	995523809	supplier	Duplicate
+Btg_Wom	CarmenGloria	Reyes	964818622	156664618	carmen.reyes@newcall.cl	766857914	supplier	Duplicate
+Btg_Abastible	Felipe	Puntarelli	282828	157753258	abastible@portalfinance.co	764505832	supplier	Duplicate
+Btg_App	Felipe	Puntarelli	282828	157753258	app@portalfinance.co	764505832	supplier	Duplicate
+Btg_Btg	Felipe	Puntarelli	3002321	157753258	fpuntarelli@portalfinance.co	764505832	financial	Duplicate
+Btg_Carola	Felipe	Puntarelli	3002321	157753258	fpuntarelli@portalfinance.co	764505832	supplier	Duplicate
+Btg_Hites	Felipe	Puntarelli	282828	157753258	hites@portalfinance.co	764505832	supplier	Duplicate
+Btg_Wom	Felipe	Puntarelli	282828	157753258	wom@portalfinance.co	764505832	supplier	Duplicate
+Claro_Provider	Felipe	Puntarelli	282828	157753258	claro@portalfinance.co	764505832	supplier	Duplicate
+Eloy_Analisis	Felipe	Puntarelli	4343433	157753258	analisis@portalfinanceborrar.co	764505832	supplier	Duplicate
+Eloy_Asfalcura	Felipe	Puntarelli	282828	157753258	asfalcura@portalfinance.co	764505832	supplier	Duplicate
+Eloy_Pacal	Felipe	Puntarelli	282828	157753258	pacal@portalfinance.co	764505832	supplier	Duplicate
+Eloy_Sacyr	Felipe	Puntarelli	282828	157753258	sacyr@portalfinance.co	764505832	supplier	Duplicate
+Eloy_Socovesa	Felipe	Puntarelli	282828	157753258	socovesa@portalfinance.co	764505832	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	John	Doe	12132	157753258	fpuntarelli@portalfinance.co	764505832	supplier	Duplicate
+PortalFinance_Partner	Felipe	Puntarelli	2323232	157753258	supplier@portalfinance.co	764505832	supplier	Duplicate
+Test_Supplier	Felipe	Puntarelli	3005687	157753258	fpuntarelli@portalfinance.co	764505832	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	nathalia	mondaca	228334970	157919660	nathalia.mondaca@gmail.com	765368820	supplier	Duplicate
+Eloy_Partner	yasna	baeza	982666375	158908395	ybaeza@aplisol.cl	76367861K	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	RodrigoEduardo	AravenaZarate	999410606	159157555	rodrigo@zaratepro.cl	765840961	supplier	Duplicate
+Btg_Carola	Eduardo	Pérez	229046145	160928484	eduardo.perez@konectiva.cl	76874985K	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	Eduardo	Pérez	966874180	160928484	eduardo.perez@konectiva.cl	76874985K	default	Duplicate
+Eloy_Asfalcura	CRISTIAN	MOLINA	227522998	160996900	cmolina@eloy.cl	765159318	supplier	Duplicate
+Btg_Wom	jaime	diaz	988682454	161490350	administracion@chileparcels.cl	762736942	supplier	Duplicate
+Eloy_Socovesa	Yosselyn	Ruiz	228401000	162459031	cobranzaiia@iia.cl	798823604	supplier	Duplicate
+Btg_Carola	Mario	AriasFlores	569926757	163041332	mario.andres@abastec.cl	777837508	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	FelipeAndres	FariasRozas	56991528739	164874702	paloma@holdingcpa.com	767157258	default	Duplicate
+Btg_Carola	MARIELA	monsalves	990176973	166730392	contabilidad@ebaeza.cl	966258403	supplier	Duplicate
+Eloy_Asfalcura	mariela	monsalves	990176973	166730392	contabilidad@ebaeza.cl	966258403	supplier	Duplicate
+Btg_Btg	Financial	User		166770505	financial@portalfinance.co	114854298	financial	Duplicate
+Eloy_Socovesa	JUANPABLO	VERA	225915213	167144063	facturacion@multiservic.cl	799381605	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	Wernner	Tapia	966486019	167245757	wermaster@gmail.com	765605318	default	Duplicate
+MotorFinanciero_MotorFinanciero	marianela	diaz	958724494	167933904	marinela83@gmail.com	764723473	default	Duplicate
+MotorFinanciero_MotorFinanciero	Rodolfo	Moorales		168246129	rmorales@motorfinanciero.cl	764510062	credit_executive	Duplicate
+Btg_Carola	Antonio	Cabreira	973079395	169121451	antonio@neltu.me	765965225	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	Antonio	Cabreira	973079395	169121451	antonio@neltu.me	765965225	default	Duplicate
+Btg_Carola	Diego	Gaínza	225696155	170263162	diego.gainza@mineracarola.cl	796643307	supplier	Duplicate
+PortalFinance_Partner	Diego	Gaínza	225696155	170263162	diego.gainza@mineracarola.cl	796643307	supplier	Duplicate
+Btg_Wom	CAMILA	PEREIRA	967597916	172895352	camila@sism.cl	767326858	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	Carolina	Gonzalez	56987646149	173115091	Caritogb01@gmail.com	767423853	supplier	Duplicate
+Btg_Wom	Kerena	Becerra	95853632	173349580	sonia@sism.cl	767326858	supplier	Duplicate
+Btg_Wom	Blanca	RUIZ	223648206	175475303	tesoreria@cooperativa.cl	947950002	supplier	Duplicate
+Btg_Carola	Aarón	VillalongaMartinez	973989304	176628588	avm@bombasdepozo.cl	78176700K	supplier	Duplicate
+Btg_Carola	Ximena	Jimenez	228625754	177333387	ximena@hannachile.com	789721904	supplier	Duplicate
+Btg_Carola	Isaac	Valenzuela	22382152	178759752	ivalenzuela@campomanes.cl	995523809	supplier	Duplicate
+Eloy_Socovesa	MariaCamila	Sepúlveda	232027310	180829172	msepulveda@bws.cl	767239904	supplier	Duplicate
+Btg_Carola	MarceloEsteban	Diaz	986151939	180933050	marcelo.diaz@bailac.cl	772470509	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	Jorge	Patiño	961223843	185918068	jorge.patino@sercall.cl	764855795	default	Duplicate
+Eloy_Socovesa	Kimberly	Rios	232626554	188157890	kimberly@believe.tv	760200476	supplier	Duplicate
+Eloy_Socovesa	Hector	Hidalgo	993433886	191246365	hhidalgob@kovacs.cl	805229004	supplier	Duplicate
+Btg_Btg	Cristian	Viñal		205475508	cvinal@portalfinance.co	764505832	financial	Duplicate
+Eloy_Eloy	Diego	Financial		221069293	financial@portalfinance.co	482051170	financial	Duplicate
+Btg_Btg	Andrea	Varela		227213728	avarela@portalfinance.co	764505832	financial	Duplicate
+MotorFinanciero_MotorFinanciero	Andrea	Varela		227213728	avarela@motorfinanciero.cl	764505832	credit_executive	Duplicate
+MotorFinanciero_MotorFinanciero	Valeria	Avendano		227213729	vavendano@motorfinanciero.cl	764510062	credit_executive	Duplicate
+MotorFinanciero_MotorFinanciero	Felipe	Puntarelli	12312312	228561312	fpuntarelli1@portalfinance.co	764505832	supplier	Duplicate
+Btg_Btg	Diego	Caicedo		233451657	admin@portalfinance.co	482051170	financial	Duplicate
+Eloy_Eloy	Diego	Admin		233451657	admin@portalfinance.co	482051170	financial	Duplicate
+Test_Test	Diego	Caicedo		233451657	admin@portalfinance.co	482051170	financial	Duplicate
+Btg_Carola	HUGO	CARMONA	9727255774	241891488	hcarmona@portalfinance.co	764505832	supplier	Duplicate
+Btg_Carola	carliani	serrano	983701377	258798171	cserrano@semam.cl	766601855	supplier	Duplicate
+Eloy_Partner	carliani	serrano	983701377	258798171	cserrano@semam.cl	766601855	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	GimenaMargarita	VillamizarJaimes		264650062	gvillamizar@motorfinanciero.cl	764505832	credit_executive	Duplicate
+Btg_Btg	Diego	Caicedo		482051170	dcaicedo@portalfinance.co	764505832	financial	Duplicate
+MotorFinanciero_MotorFinanciero	Esteban	Livacic	106579369	768388520	elivacic@livacic.cl	768388520	default	Duplicate
+Btg_Carola	MarceloEsteban	Diaz	569861519	772470509	d.comercial@bailac.cl	772470509	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	Rodrigo	Aravena	999410606	1591575555	rodrigozaratechile@gmail.com	765840961	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	juanmiguel	pizarro	944928037	10583912K	juanpizarro@bicho.cl	763037495	supplier	Duplicate
+Btg_Btg	Test2	Tester	54	10848506K	jperez@portalfinance.co	482051170	financial	Duplicate
+MotorFinanciero_MotorFinanciero	Fabiola	Muñoz	956570693	108822295lonquiexpress@gmail.com	lonquiexpress@gmail.com	766609651	supplier	Duplicate
+Btg_Wom	Alejandro	Camus	90155537	12406970K	alejandro.camus@newcall.cl	766857914	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	Humberto	Barzelatto	56996348365	13270810K	hbarzelatto@exilon360.cl	763246612	supplier	Duplicate
+MotorFinanciero_MotorFinanciero	Humberto	Barzelatto	996348365	13270810k	hbarzelatto@exilo360.cl	763246612	default	Duplicate
+Btg_Wom	jose	garrido	977790817	20132520K	jose@happydigital.cl	767778163	supplier	Duplicate
+Btg_Btg	JhonnyAlejandro	PérezRojas	3005868	5763331K	jperezud@gmail.com	114854298	financial	Duplicate
+MotorFinanciero_MotorFinanciero	Sybille	VonRiegen	964077714	7047915K	gardenfullspa@gmail.com	767118449	default	Duplicate
+MotorFinanciero_MotorFinanciero	Sybille	VonRiegen	964077714	7047915k	gardenfulspa@gmail.com	767118449	default	Duplicate
+MotorFinanciero_MotorFinanciero	Rodolfo	Gonganzalez	986687287	7996915K	electricidadymontajesayc@gmail.com	767423853	supplier	Duplicate
+Btg_Wom	Gastón	Iturriaga	226287502	9489266K	giturriaga@wsp.cl	968287400	supplier	Duplicate
+Test_Test	Test1	Tester	3005868	9791138K	jperez@portalfinance.co	482051170	financial	Duplicate
+MotorFinanciero_MotorFinanciero	Manuel	Millán	982484059	Gerente	emedos.spa@gmail.com	76525079K	supplier	Duplicate

@@ -1,0 +1,19 @@
+Nro;Tipo Doc;Tipo Venta;Rut cliente;Razon Social;Folio;Fecha Docto;Fecha Recepcion;Fecha Acuse Recibo;Fecha Reclamo;Monto Exento;Monto Neto;Monto IVA;Monto total;IVA Retenido Total;IVA Retenido Parcial;IVA no retenido;IVA propio;IVA Terceros;RUT Emisor Liquid. Factura;Neto Comision Liquid. Factura;Exento Comision Liquid. Factura;IVA Comision Liquid. Factura;IVA fuera de plazo;Tipo Docto. Referencia;Folio Docto. Referencia;Num. Ident. Receptor Extranjero;Nacionalidad Receptor Extranjero;Credito empresa constructora;Impto. Zona Franca (Ley 18211);Garantia Dep. Envases;Indicador Venta sin Costo;Indicador Servicio Periodico;Monto No facturable;Total Monto Periodo;Venta Pasajes Transporte Nacional;Venta Pasajes Transporte Internacional;Numero Interno;Codigo Sucursal;NCE o NDE sobre Fact. de Compra;Codigo Otro Imp.;Valor Otro Imp.;Tasa Otro Imp.
+1;33;Del Giro;76311198-9;Bocali Spa;449;01/10/2018;01/10/2018 19:33:03;03/10/2018 20:53:47;;0;768998;146110;915108;0;0;0;0;0;-;0;0;0;0;0;;;;0;;0;0;0;0;0;;;;0;;;;;
+2;33;Del Giro;76747650-7;COLOR ANIMAL S A;450;01/10/2018;01/10/2018 19:42:54;;;0;832638;158201;990839;0;0;0;0;0;-;0;0;0;0;0;;;;0;;0;0;0;0;0;;;;0;;;;;
+3;33;Del Giro;76727464-5;Ezypark SpA;451;01/10/2018;01/10/2018 19:45:17;09/10/2018 10:12:05;;0;2047301;388987;2436288;0;0;0;0;0;-;0;0;0;0;0;;;;0;;0;0;0;0;0;;;;0;;;;;
+4;33;Del Giro;76454519-2;GRUPO INDUSTRIAL AM SPA;452;01/10/2018;01/10/2018 19:46:33;;;0;441468;83879;525347;0;0;0;0;0;-;0;0;0;0;0;;;;0;;0;0;0;0;0;;;;0;;;;;
+5;33;Del Giro;76632021-K;INNOVARTE PROPIEDADES SPA;453;01/10/2018;01/10/2018 19:47:22;;;0;33493;6364;39857;0;0;0;0;0;-;0;0;0;0;0;;;;0;;0;0;0;0;0;;;;0;;;;;
+6;33;Del Giro;81698900-0;PONTIFICIA UNIVERSIDAD CATOLICA DE CHILE;454;01/10/2018;01/10/2018 19:48:30;;;314632;108000;20520;443152;0;0;0;0;0;-;0;0;0;0;0;;;;0;;0;0;0;0;0;;;;0;;;;;
+7;33;Del Giro;76246617-1;Quality Water Service Chile SpA;455;01/10/2018;01/10/2018 19:52:28;09/10/2018 12:03:00;;0;1941031;368796;2309827;0;0;0;0;0;-;0;0;0;0;0;;;;0;;0;0;0;0;0;;;;0;;;;;
+8;33;Del Giro;91083000-7;EMPRESAS TUCAPEL S A;456;08/10/2018;09/10/2018 14:35:59;13/10/2018 22:29:02;;0;355836;67609;423445;0;0;0;0;0;-;0;0;0;0;;;;;0;;0;0;0;0;0;;;;0;;;;;
+9;33;Del Giro;90209000-2;CIA INDUSTRIAL EL VOLCAN S A;457;10/10/2018;12/10/2018 11:15:24;12/10/2018 14:15:26;;0;2534308;481519;3015827;0;0;0;0;0;-;0;0;0;0;;;;;0;;0;0;0;0;0;;;;0;;;;;
+10;34;Del Giro;76455894-4;Servicios Medicos y de Salud e Inversiones Spa;392;01/10/2018;01/10/2018 19:28:09;;;923432;0;0;923432;0;0;0;0;0;-;0;0;0;0;0;;;;0;;0;0;0;0;0;;;;0;;;;;
+11;34;Del Giro;76341417-5;Sociedad de Servicios Clínicos Provitalis Limitada;393;01/10/2018;01/10/2018 19:55:13;;;13680;0;0;13680;0;0;0;0;0;-;0;0;0;0;0;;;;0;;0;0;0;0;0;;;;0;;;;;
+12;34;Del Giro;76180174-0;VERSATIL CONSULTORES LIMITADA;394;01/10/2018;01/10/2018 19:56:04;;;13680;0;0;13680;0;0;0;0;0;-;0;0;0;0;0;;;;0;;0;0;0;0;0;;;;0;;;;;
+13;34;Del Giro;76804564-K;PST PAGO FACIL SPA;395;02/10/2018;02/10/2018 11:55:48;;;676072;0;0;676072;0;0;0;0;0;-;0;0;0;0;0;;;;0;;0;0;0;0;0;;;;0;;;;;
+14;34;Del Giro;85698200-9;PREUNIVERSITARIO PEDRO DE VALDIVIA LIMITADA;396;02/10/2018;04/10/2018 18:57:35;;;550000;0;0;550000;0;0;0;0;0;-;0;0;0;0;;;;;0;;0;0;0;0;0;;;;0;;;;;
+15;34;Del Giro;85698200-9;PREUNIVERSITARIO PEDRO DE VALDIVIA LIMITADA;397;05/10/2018;16/10/2018 12:22:26;;;136824;0;0;136824;0;0;0;0;0;-;0;0;0;0;;;;;0;;0;0;0;0;0;;;;0;;;;;
+16;34;Del Giro;85698200-9;PREUNIVERSITARIO PEDRO DE VALDIVIA LIMITADA;398;10/10/2018;16/10/2018 12:32:52;;;818085;0;0;818085;0;0;0;0;0;-;0;0;0;0;;;;;0;;0;0;0;0;0;;;;0;;;;;
+17;34;Del Giro;76449093-2;TACTECH SPA;399;17/10/2018;17/10/2018 10:19:27;;;170336;0;0;170336;0;0;0;0;0;-;0;0;0;0;0;;;;0;;0;0;0;0;0;;;;0;;;;;
+18;34;Del Giro;76449093-2;TACTECH SPA;400;17/10/2018;17/10/2018 10:20:15;;;318441;0;0;318441;0;0;0;0;0;-;0;0;0;0;0;;;;0;;0;0;0;0;0;;;;0;;;;;

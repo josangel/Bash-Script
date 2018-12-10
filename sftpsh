@@ -1,0 +1,51 @@
+#!/bin/bash
+inicio_h=`date +%H`
+inicio_m=`date +%M`
+inicio_s=`date +%s`
+touch details.txt
+for i in $(ls /home/angel/Desktop/Scripts-progress/SFTP/archivos/ -C1)
+do
+sftp -i ~/Documents/PEM/wom-key.pem   Wom@54.172.176.5:uploads/Error  <<< $'put /home/angel/Desktop/Scripts-progress/SFTP/archivos/'$i''
+
+
+cksum /home/angel/Desktop/Scripts-progress/SFTP/archivos/$i >> details.txt
+
+done
+
+sed -i -E "s/[ ]/;/g" details.txt
+touch reporte.csv
+echo "ID;Tamaño;Nombre" >> reporte.csv
+cat pru.txt >> reporte.csv
+
+
+fin_h=`date +%H`
+fin_m=`date +%M`
+fin_s=`date +%s`
+let total_h=$fin_h-$inicio_h
+let total_m=$fin_m-$inicio_m
+let total_s=$fin_s-$inicio_s
+
+#echo "ha tardado:$total_h horas $total_m minutos $total_s segundos"
+
+function seconds_to_time()
+{
+    local TIME="$total_s"
+    local h=$(($TIME/3600))
+    local m=$((($TIME%3600)/60))
+    local s=$(($TIME%60))
+    printf "%02d:%02d:%02d\n" $h $m $s
+}
+
+seconds_to_time
+
+
+
+
+
+
+
+
+
+
+
+

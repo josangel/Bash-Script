@@ -1,0 +1,115 @@
+#!/bin/bash
+function get_token(){
+curl -k -X POST https://34.201.136.128:8443/core/oauth2/token --data 'client_id=0001' --data 'client_secret=S0m333s3cr3tntk9' --data 'grant_type=password' --data 'provision_key=apzs9SZ4fOSPncZL63SicLAyXY1C3Wbs' --data 'authenticated_userid=fe02d8df-3d6d-4190-975a-124734cbb38a' --data 'scope=core'
+}
+
+ TOCK=$(get_token  | jq '.access_token')
+ token=${TOCK:1:-1}
+
+#cd /home/ubuntu/gdrive
+ubi=$(pwd)
+mkdir -p Resultados
+mkdir -p Procesar
+mkdir -p Novalido
+
+for file in ./*.xml *.XML *Xml;
+  do
+
+	Folio=$(grep -oPm1 "(?<=<Folio>)[^<]+" $file)
+	User=$(grep -oPm1 "(?<=<RUTEmisor>)[^<]+" $file)
+	Rut=$(echo "${User//[-]/}")
+	DTETYPE=$(grep -oPm1 "(?<=<TipoDTE>)[^<]+" $file)
+	Name=$Rut"_"$Folio"_"$DTETYPE.xml
+
+ if [[ $DTETYPE = "33" ]]; then
+   	mv $file Procesar/$Name
+
+ elif [[ $DTETYPE = "34" ]]; then
+   	mv $file Procesar/$Name
+
+ elif [[ $DTETYPE = "56" ]]; then
+   	mv $file Procesar/$Name
+
+ elif [[ $DTETYPE = "61" ]]; then
+   	mv $file Procesar/$Name
+
+ else
+   	mv $file Novalido/$Name
+   fi
+
+done
+
+dt=`date +%y"-"%m"-"%d"-"%R`
+
+mkdir -p Procesar/Base
+mkdir -p Procesar/Ok$dt
+mkdir -p Procesar/NoOk$dt
+conta = 0
+subi = 0
+
+
+
+for i in $(ls $ubi/Procesar -C1)
+do
+
+		openssl base64 -in $ubi/Procesar/$i -out $ubi/Procesar/Base/$i
+		echo $i
+done
+
+for i in $(ls $ubi/Procesar/Base -C)
+
+do
+
+Dte=$(cat $ubi/Procesar/Base/$i | tr -d "\n\t\r") >> test.csv
+    echo  >> test.csv
+    
+Rpt=$(curl -s -w "HTTPSTATUS:%{http_code}"  -X POST \
+  https://kong-prod-blue.portalfinance.co/scrapers/upload_dte_files \
+  -H 'Authorization: bearer  '$token'' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Content-Type: application/json' \
+  -H 'Postman-Token: 19912ee4-b6a8-4fe8-b779-41500ba9a8ac' \
+  -H 'pf-financial-institution-id: Btg' \
+  -H 'pf-tenant-id: Carola' \
+  -d '{
+	"data": {
+		"dte_content": "'$Dte'"
+		
+	}
+}
+')
+
+NM=$(basename $i)
+
+BODY=$(echo $Rpt | sed -e 's/HTTPSTATUS\:.*//g')
+ 
+STATUS=$(echo $Rpt | tr -d '\n' | sed -e 's/.*HTTPSTATUS://')
+
+
+
+ 
+if [  "$STATUS" -eq 200 ]; then
+
+	mv $ubi/Procesar/$i $ubi/Procesar/Ok$dt/$i
+	let "subi=subi+1"
+fi
+
+let "conta=conta+1"
+echo $NM ES EL DTE N°
+echo $conta 
+echo Status $STATUS
+echo $NM$Rpt >> respuesta-$dt.txt
+rm test.csv
+echo $subi > Resultados/Subidos-$dt.txt
+
+
+done
+
+mv respuesta-$dt.txt Resultados/respuesta-$dt.txt
+
+for i in $ubi/Procesar/*.xml *.XML *Xml;
+
+do
+mv  $i $ubi/Procesar/NoOk$dt
+
+done

@@ -1,0 +1,6 @@
+prd 
+curl -k -X POST https://34.201.136.128:8443/core/oauth2/token --data 'client_id=0001' --data 'client_secret=S0m333s3cr3tntk9' --data 'grant_type=password' --data 'provision_key=apzs9SZ4fOSPncZL63SicLAyXY1C3Wbs' --data 'authenticated_userid=fe02d8df-3d6d-4190-975a-124734cbb38a' --data 'scope=core'
+qa
+curl -k -X POST https://18.210.6.89:8443/core/oauth2/token --data 'client_id=0001' --data 'client_secret=S0m3s3cr3tntk8' --data 'grant_type=password' --data 'provision_key=PQhF1QZ0h5CMUgKos9FFh7r95MCIeox2' --data 'authenticated_userid=486f1728-a7ef-4a2d-929d-33c1f601f344' --data 'scope=core'
+stg 
+curl -k -X POST https://54.165.203.185:8443/core/oauth2/token --data 'client_id=0001' --data 'client_secret=S0m3s3cr3tntk8' --data 'grant_type=password' --data 'provision_key=PQhF1QZ0h5CMUgKos9FFh7r95MCIeox2' --data 'authenticated_userid=486f1728-a7ef-4a2d-929d-33c1f601f344' --data 'scope=core'
